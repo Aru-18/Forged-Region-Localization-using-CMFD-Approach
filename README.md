@@ -15,11 +15,17 @@
 
 ### Custom-Functions Created:
   **1. readImage:** Read the input image, resize it and convert it into grayscale form.
+  
   **2. SWT:** Perform level 2 Stationary Wavelet Transform and extract only the LL sub-band.
+  
   **3. keypoints:** Extraction of features and their corresponding feature descriptors using Scale-Invariant Feature Transform (SIFT).
+  
   **4. showImage:** Display the image in a separate dialog box.
+  
   **5. showKeypoints:** Display the input image with the extracted keypoints highlighted.
+  
   **6. dbscan:** Perform 2-level DBSCAN to localize the forged regions.
+  
   **7. drivercode:** For each input image, executes all the above mentioned functions in an orderly manner.
 
 ### Dataset Used:
